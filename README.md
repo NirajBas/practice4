@@ -4,3 +4,7 @@
 # author
  - Niraj Basel
  - Student at BMSIT, Banglore.
+
+ # personal details
+- name : Niraj Basel,
+- student : BTech 1st sem CSE at BMSIT
